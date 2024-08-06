@@ -288,7 +288,7 @@ nav{
     outline:  0 ;
     border-bottom:  1px  solid  #ccc ;
     background:  transparent ;
-    resize: none ;
+    resize: none;
 }
 .add-post-links{
     display: flex;
@@ -302,10 +302,10 @@ nav{
     margin-right: 30px;
     font-size: 13px;
 }
-.add-post-links a img{
+.add-post-links  a  img{
     width: 20px;
     margin-right: 10px;
-}
+}  
 .post-container{
     width: 100% ;
     background: #fff ;
